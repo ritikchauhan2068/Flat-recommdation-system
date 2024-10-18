@@ -9,8 +9,8 @@ Easy Integration: Can be easily integrated with existing applications and platfo
 Data Visualization: Provides insights into recommendation patterns through visual representations.
 
 # Technologies Used
-1-Python
-2-Pandas
+-Python
+-Pandas
 3-NumPy
 4-Scikit-learn
 5-Flask (for API development)
