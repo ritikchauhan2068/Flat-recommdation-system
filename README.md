@@ -9,17 +9,15 @@ Easy Integration: Can be easily integrated with existing applications and platfo
 Data Visualization: Provides insights into recommendation patterns through visual representations.
 
 # Technologies Used
--- Python
--- Pandas
-3-NumPy
-4-Scikit-learn
-5-Flask (for API development)
+1. Python
+2. Pandas
+3. NumPy
+4. Scikit-learn
+5. Flask (for API development)
 
 # Acknowledgments
-Collaborative Filtering
-Content-Based Filtering
+1. Collaborative Filtering
+2. Content-Based Filtering
 
-1. First item
-2. Second item
-3. Third item
+
 
