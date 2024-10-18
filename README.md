@@ -1,4 +1,4 @@
-## Flat Recommendation System
+# Flat Recommendation System
 # Overview
 The Flat Recommendation System is a simple yet effective tool designed to provide personalized recommendations based on user preferences and behavior. It leverages various algorithms to analyze user data and deliver tailored suggestions for products, content, or services.
 
