@@ -18,3 +18,8 @@ Data Visualization: Provides insights into recommendation patterns through visua
 # Acknowledgments
 Collaborative Filtering
 Content-Based Filtering
+
+1. First item
+2. Second item
+3. Third item
+
