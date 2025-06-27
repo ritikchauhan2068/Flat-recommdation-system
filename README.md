@@ -1,7 +1,7 @@
 # **Flat Recommendation App 🏡**  
 
 ### **Overview**  
-The **Real Estate Recommendation App** helps users find the best properties of gurgoan based on their preferences, such as **budget, location, property type, and amenities**. Built using **Streamlit**, this interactive app leverages **data science and machine learning** to provide **personalized property recommendations**.  
+The **Flat Recommendation App** helps users find the best properties of gurgoan based on their preferences, such as **budget, location, property type, and amenities**. Built using **Streamlit**, this interactive app leverages **data science and machine learning** to provide **personalized property recommendations**.  
 
 ---
 
